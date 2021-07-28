@@ -1,3 +1,5 @@
+# Code along complete
+
 # ./my_server.rb
 
 class MyServer
